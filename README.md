@@ -11,5 +11,3 @@
 ### Corey Lurvey
 
 > Welsh software developer based in Bristol, United Kingdom.
-
-I'm a full-stack developer working at CACI IIG. 
